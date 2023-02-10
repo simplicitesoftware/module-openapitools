@@ -8,12 +8,12 @@
 ![](https://docs.simplicite.io//logos/logo250.png)
 * * *
 
-`SwaggerTools` module definition
+`OpenAPITools` module definition
 ================================
 
 
 
-`SwgBrowser` external object definition
+`OaiBrowser` external object definition
 ---------------------------------------
 
 Swagger/OpenAPI schema browser

@@ -1,4 +1,4 @@
-package com.simplicite.extobjects.SwaggerTools;
+package com.simplicite.extobjects.OpenAPITools;
 
 import org.json.JSONObject;
 
@@ -8,9 +8,9 @@ import com.simplicite.util.tools.JSONTool;
 import com.simplicite.util.tools.Parameters;
 
 /**
- * Swagger browser
+ * OpenAPI/Swagger browser
  */
-public class SwgBrowser extends com.simplicite.webapp.web.ResponsiveExternalObject {
+public class OaiBrowser extends com.simplicite.webapp.web.ResponsiveExternalObject {
 	private static final long serialVersionUID = 1L;
 
 	@Override

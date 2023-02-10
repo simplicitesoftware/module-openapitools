@@ -2,7 +2,7 @@
 # / __(_)_ __  _ __| (_)__(_) |_ /_/
 # \__ \ | '  \| '_ \ | / _| |  _/ -_)
 # |___/_|_|_|_| .__/_|_\__|_|\__\___|
-#             |_| Module: SwaggerTools 5
+#             |_| Module: OpenAPITools 5
 basePath: /api
 paths:
   /login:
@@ -198,6 +198,6 @@ info:
     name: Simplicite Software
     url: http://www.simplicitesoftware.com
     email: contact@simplicitesoftware.com
-  description: API for module SwaggerTools
-  title: SwaggerTools
+  description: API for module OpenAPITools
+  title: OpenAPITools
   version: '5'

@@ -1,9 +1,9 @@
 {
-    "date": "2023-02-10 16:20:57",
-    "name": "SwaggerTools",
+    "date": "2023-02-10 16:47:17",
+    "name": "OpenAPITools",
     "format": "xml",
-    "files": ["SwaggerTools.xml"],
-    "repository": {"origin": {"uri": "https://github.com/simplicitesoftware/module-swaggertools.git"}},
+    "files": ["OpenAPITools.xml"],
+    "repository": {"origin": {"uri": "https://github.com/simplicitesoftware/module-openapitools.git"}},
     "version": "5",
     "platform": "5.2.31"
 }
