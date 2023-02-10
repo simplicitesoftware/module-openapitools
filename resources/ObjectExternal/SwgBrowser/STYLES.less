@@ -1,0 +1,29 @@
+.swg-absolute {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+#swg-browser {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	width: 100%;
+	height: 100%;
+	/* ZZZ avoid issues with Swagger UI's .wrapper class */
+	.wrapper {
+		position: initial;
+	}
+}
+#swg-editor, #swg-ui {
+	height: 100%;
+}
+#swg-editor {
+	width: 40%;
+}
+#swg-ui {
+	width: 60%;
+	background: #F0F0F0;
+	overflow: auto;
+}
