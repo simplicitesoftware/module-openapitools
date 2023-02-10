@@ -121,7 +121,7 @@
 		<res_code>openapi</res_code>
 		<res_cached>0</res_cached>
 		<res_file/>
-		<res_image>resources/Disposition/default/openapi.png</res_image>
+		<res_image>resources/Disposition/default/openapi.svg</res_image>
 		<row_module_id.mdl_name>OpenAPITools</row_module_id.mdl_name>
 	</data>
 	<data>
