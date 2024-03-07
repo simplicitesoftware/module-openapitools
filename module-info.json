@@ -1,9 +1,9 @@
 {
-    "date": "2023-02-10 17:23:21",
+    "date": "2024-03-07 12:42:21",
     "name": "OpenAPITools",
     "format": "xml",
     "files": ["OpenAPITools.xml"],
     "repository": {"origin": {"uri": "https://github.com/simplicitesoftware/module-openapitools.git"}},
-    "version": "5",
-    "platform": "5.2.31"
+    "version": "6",
+    "platform": "6.0.3-preview"
 }
